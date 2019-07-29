@@ -1,0 +1,87 @@
+body{
+padding: 0;
+margin:0;
+
+}
+
+header{
+background: url(../Marushko/img/Portfollio/image.jpg) no-repeat center top / cover;
+height: 800px;
+}
+
+nav {
+float: right;
+padding-top: 30px;
+padding-bottom: 20px;
+padding-left: 650px;
+background-color: rgba(0,0,0,0.6);
+
+
+
+
+
+
+}
+.menu {
+
+padding: 0;
+margin: 0;
+
+
+
+
+}
+
+.menu li {
+float:left;
+margin-right: 60px;
+display: block;
+
+
+}
+
+.menu li a {
+color: white;
+text-decoration: none;
+text-transform: uppercase;
+}
+
+.marushko{
+
+    float:right;
+    margin-top: 10%;
+    margin-right: 20px;
+    color: #fff;
+    font-size: 30px;
+    width: 1em;
+    line-height: 1em;
+    font-size: 20px;
+    text-transform: uppercase;
+    
+}
+
+.icons {
+
+    float: left;
+    font-size: 35px;
+    margin-top: 10%;
+   width: 100px;
+   height: 100px;
+   
+    
+}
+
+.icons a {
+
+    color: #fff;
+   
+}
+
+.icons li {
+
+    list-style-type: none;
+    margin: 15px;
+} 
+
+
+
